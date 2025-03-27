@@ -2,7 +2,7 @@ I am an experienced and highly adaptive data scientist with over a decade of pos
 
 Literary contributions to Science (Peer-reviewed publications in chronological order, my name may appear as Ramadasan-Nair R or Nair R):
 
-1. Nair R, Gaudesi M, Methani C. Small Language Model Finetuning for Domain Specific Language Generation in Production (Currently under submission at NeurIPS 2025).
+1. Nair R, Gaudesi M, Singhal S, Methani C. Small Language Model Finetuning for Domain Specific Language Generation in Production (Currently under submission at NeurIPS 2025).
 
 2. Nambiar N, Rajesh V, Nair A, Nambiar S, Nair R, Uthamanthil R, Lotodo T, Mittal S, Kussick S. An AI based, open access screening tool for early diagnosis of Burkitt lymphoma. Frontiers in Medicine. Volume 11 - 2024 | https://doi.org/10.3389/fmed.2024.1345611
 
