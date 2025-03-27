@@ -1,6 +1,6 @@
 I am an experienced and highly adaptive data scientist with over a decade of postdoctoral and industry experience. Proficient in shallow and deep machine learning algorithms, ML tools, and NLP. Operated at the cutting edge of technology, leading and delivering numerous LLM-based copilot models, significantly enhancing business metrics, and amplifying customer satisfaction. Throughout my research-oriented career in academia and industry, I have generated and optimized AI models using various types of data. Passionate about the transformative potential of research-driven data science, I aim to contribute to the evolution of this field in my future endeavors.
 
-Literary contributions to Science (Peer-reviewed publications in chronological order, my name may appear ar Ramadasan-Nair R or Nair R):
+Literary contributions to Science (Peer-reviewed publications in chronological order, my name may appear as Ramadasan-Nair R or Nair R):
 
 1. Nair R, Gaudesi M, Methani C. Small Language Model Finetuning for Domain Specific Language Generation in Production (Currently under submission at NeurIPS 2025).
 
